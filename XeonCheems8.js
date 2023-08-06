@@ -1517,24 +1517,24 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
    │✑  Please Type The *MENU*
    │✑  Given *BELOW*
 ┌└─────────────┈ ⳹
-│❏.allmenu
-│❏.downloadmenu
-│❏.funmenu
-│❏.aimenu
-│❏.groupmenu
-│❏.ownermenu
-│❏.photooxymenu
-│❏.textpromenu
-│❏.ephoto360menu
-│❏.animemenu
-│❏.nsfwmenu
-│❏.randomphotomenu
-│❏.randomvideomenu
-│❏.stickermenu
-│❏.databasemenu
-│❏.stalkermenu
-│❏.bugmenu
-│❏.othermenu
+│ ❏.allmenu
+│ ❏.downloadmenu
+│ ❏.funmenu
+│ ❏.aimenu
+│ ❏.groupmenu
+│ ❏.ownermenu
+│ ❏.photooxymenu
+│ ❏.textpromenu
+│ ❏.ephoto360menu
+│ ❏.animemenu
+│ ❏.nsfwmenu
+│ ❏.randomphotomenu
+│ ❏.randomvideomenu
+│ ❏.stickermenu
+│ ❏.databasemenu
+│ ❏.stalkermenu
+│ ❏.bugmenu
+│ ❏.othermenu
 └─────────────────┈ ⳹`
             let ments = [ownernya, me, mark]        
            XeonBotInc.sendMessage(from, { 
